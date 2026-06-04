@@ -12,6 +12,7 @@ This project was completed during the 2025 DRUMS REU at NCSU, under the guidance
 - Louisa Ebby
 
 
+
 ## Contents
 
 - `train.m`
@@ -67,3 +68,12 @@ Then run the test file:
 ```powershell
 matlab -batch "test"
 ```
+
+## Paper
+
+This repository accompanies:
+
+**Rapid estimation of global sea surface temperatures from sparse streaming in situ observations*  
+Cassidy All, Kevin Ho, Maya Magnuski, Christopher Nicolaides, Mohammad Farazmand, and Louisa Ebby.  
+arXiv:2601.21913, 2026.  
+[arXiv](https://arxiv.org/abs/2601.21913) | [PDF](https://arxiv.org/pdf/2601.21913) | [DOI](https://doi.org/10.48550/arXiv.2601.21913)
